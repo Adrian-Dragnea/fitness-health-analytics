@@ -25,3 +25,6 @@ config/local.yaml
 config/local.secrets.yaml
 config/tailscale.yaml
 config/local.nas.yaml
+
+#Data clean contract
+data/cleanContract.txt 
