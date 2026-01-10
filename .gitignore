@@ -2,9 +2,11 @@
 __pycache__/
 *.pyc
 .venv/
+
 # Logs
 logs/
-logs/pipeline.log
+*.log
+
 # Environment variables
 .env
 
