@@ -1,0 +1,103 @@
+2025-12-24 12:49:53,525 | INFO | ETL pipeline started
+2025-12-24 12:56:46,137 | INFO | ETL pipeline started
+2025-12-24 18:57:40,905 | INFO | ETL pipeline started
+2025-12-24 19:03:48,298 | INFO | ETL pipeline started
+2025-12-24 19:07:21,510 | INFO | ETL pipeline started
+2025-12-24 19:07:21,512 | INFO | Environment: laptop
+2025-12-24 19:07:21,512 | INFO | Access method: tailscale
+2025-12-24 19:07:21,512 | INFO | Raw data path: \\100.113.15.58\docker\Projects\fitness-health-analytics\raw
+2025-12-24 19:07:21,512 | INFO | Processed data path: \\100.113.15.58\docker\Projects\fitness-health-analytics\processed
+2025-12-24 19:07:21,513 | INFO | ETL pipeline finished successfully
+2025-12-24 19:34:33,327 | INFO | ETL pipeline started
+2025-12-24 19:34:33,334 | INFO | Environment: laptop
+2025-12-24 19:37:31,004 | INFO | ETL pipeline started
+2025-12-24 19:37:31,015 | INFO | Environment: laptop
+2025-12-24 19:40:04,350 | INFO | ETL pipeline started
+2025-12-24 19:40:04,351 | INFO | Environment: laptop
+2025-12-24 19:40:06,441 | INFO | Downloading Kaggle dataset: siddheshtoraskar/comprehensive-fitness-and-health-tracking-dataset
+2025-12-24 19:40:06,441 | INFO | Target folder: \\100.113.15.58\docker\Projects\fitness-health-analytics\raw
+2025-12-24 19:40:29,107 | INFO | Kaggle dataset downloaded successfully
+2025-12-24 19:40:29,107 | INFO | ETL pipeline finished successfully
+2025-12-31 12:50:48,806 | INFO | ETL pipeline started
+2025-12-31 12:57:39,805 | INFO | ETL pipeline started
+2025-12-31 12:57:39,814 | INFO | Environment: local
+2025-12-31 12:58:03,234 | INFO | ETL pipeline started
+2025-12-31 12:58:03,236 | INFO | Environment: local
+2025-12-31 12:58:14,644 | INFO | ETL pipeline started
+2025-12-31 12:58:14,646 | INFO | Environment: local
+2025-12-31 12:58:14,656 | INFO | Downloading Kaggle dataset: siddheshtoraskar/comprehensive-fitness-and-health-tracking-dataset
+2025-12-31 12:58:14,656 | INFO | Target folder: \\AdiNAS\docker\Projects\fitness-health-analytics\raw
+2025-12-31 12:58:18,021 | INFO | Kaggle dataset downloaded successfully
+2025-12-31 12:58:18,021 | INFO | ETL pipeline finished successfully
+2026-01-02 17:35:50,065 | INFO | ETL pipeline started
+2026-01-02 17:35:50,067 | INFO | Environment: laptop
+2026-01-02 17:35:50,068 | INFO | Downloading Kaggle dataset: siddheshtoraskar/comprehensive-fitness-and-health-tracking-dataset
+2026-01-02 17:35:50,068 | INFO | Target folder: \\100.113.15.58\docker\Projects\fitness-health-analytics\raw
+2026-01-02 17:37:07,016 | INFO | ETL pipeline started
+2026-01-02 17:37:07,017 | INFO | Environment: laptop
+2026-01-02 17:37:07,017 | INFO | Downloading Kaggle dataset: siddheshtoraskar/comprehensive-fitness-and-health-tracking-dataset
+2026-01-02 17:37:07,017 | INFO | Target folder: \\100.113.15.58\docker\Projects\fitness-health-analytics\raw
+2026-01-02 17:37:14,938 | INFO | Kaggle dataset downloaded successfully
+2026-01-02 17:37:14,938 | INFO | ETL pipeline finished successfully
+2026-01-02 18:11:16,204 | INFO | ETL pipeline started
+2026-01-02 18:11:16,205 | INFO | Environment: laptop
+2026-01-02 18:11:16,206 | INFO | Downloading Kaggle dataset: siddheshtoraskar/comprehensive-fitness-and-health-tracking-dataset
+2026-01-02 18:11:16,206 | INFO | Target folder: \\100.113.15.58\docker\Projects\fitness-health-analytics\raw
+2026-01-02 18:11:19,450 | INFO | Kaggle dataset downloaded successfully
+2026-01-02 18:11:19,450 | INFO | ETL pipeline finished successfully
+2026-01-02 18:14:31,150 | INFO | ETL pipeline started
+2026-01-02 18:14:31,151 | INFO | Environment: laptop
+2026-01-02 18:14:31,186 | INFO | Downloading Kaggle dataset: siddheshtoraskar/comprehensive-fitness-and-health-tracking-dataset
+2026-01-02 18:14:31,187 | INFO | Target folder: /mnt/nas/Projects/fitness-health-analytics/data/raw
+2026-01-02 18:14:43,386 | INFO | Kaggle dataset downloaded successfully
+2026-01-02 18:14:43,386 | INFO | ETL pipeline finished successfully
+2026-01-03 11:55:05,844 | INFO | ETL pipeline started
+2026-01-03 11:55:05,847 | INFO | Environment: laptop
+2026-01-03 12:10:33,391 | INFO | ETL pipeline started
+2026-01-03 12:10:33,393 | INFO | Environment: laptop
+2026-01-03 12:10:33,394 | INFO | Downloading Kaggle dataset: siddheshtoraskar/comprehensive-fitness-and-health-tracking-dataset
+2026-01-03 12:10:33,394 | INFO | Target folder: /mnt/nas/diadi/fitness-health-analytics/raw
+2026-01-03 12:10:37,377 | INFO | Kaggle dataset downloaded successfully
+2026-01-03 12:10:37,377 | INFO | ETL pipeline finished successfully
+2026-01-03 12:50:50,378 | INFO | ETL pipeline started
+2026-01-03 12:50:50,383 | INFO | Environment: laptop
+2026-01-03 12:50:50,964 | INFO | Downloading Kaggle dataset: siddheshtoraskar/comprehensive-fitness-and-health-tracking-dataset
+2026-01-03 12:50:50,965 | INFO | Target folder: /mnt/nas/diadi/fitness-health-analytics/raw
+2026-01-03 12:51:01,723 | INFO | Kaggle dataset downloaded successfully
+2026-01-03 12:51:01,723 | INFO | ETL pipeline finished successfully
+2026-01-03 12:52:00,208 | INFO | ETL pipeline started
+2026-01-03 12:52:00,211 | INFO | Environment: laptop
+2026-01-03 12:52:00,433 | INFO | Downloading Kaggle dataset: siddheshtoraskar/comprehensive-fitness-and-health-tracking-dataset
+2026-01-03 12:52:00,433 | INFO | Target folder: /mnt/nas/Projects/fitness-health-analytics/raw
+2026-01-03 12:52:10,325 | INFO | Kaggle dataset downloaded successfully
+2026-01-03 12:52:10,325 | INFO | ETL pipeline finished successfully
+2026-01-03 12:52:45,298 | INFO | ETL pipeline started
+2026-01-03 12:52:45,302 | INFO | Environment: laptop
+2026-01-03 12:52:45,466 | INFO | Downloading Kaggle dataset: siddheshtoraskar/comprehensive-fitness-and-health-tracking-dataset
+2026-01-03 12:52:45,466 | INFO | Target folder: /mnt/nas/Projects/fitness-health-analytics/data/raw
+2026-01-03 12:52:55,084 | INFO | Kaggle dataset downloaded successfully
+2026-01-03 12:52:55,084 | INFO | ETL pipeline finished successfully
+2026-01-03 13:02:00,589 | INFO | ETL pipeline started
+2026-01-03 13:02:00,590 | INFO | Environment: laptop
+2026-01-03 13:02:00,729 | INFO | Downloading Kaggle dataset: siddheshtoraskar/comprehensive-fitness-and-health-tracking-dataset
+2026-01-03 13:02:00,729 | INFO | Target folder: /mnt/nas/Projects/fitness-health-analytics/data/raw
+2026-01-03 13:02:10,334 | INFO | Kaggle dataset downloaded successfully
+2026-01-03 13:02:10,334 | INFO | ETL pipeline finished successfully
+2026-01-06 12:29:06,618 | INFO | ETL pipeline started
+2026-01-06 12:29:06,619 | INFO | Environment: local
+2026-01-06 12:29:06,620 | INFO | Downloading Kaggle dataset: siddheshtoraskar/comprehensive-fitness-and-health-tracking-dataset
+2026-01-06 12:29:06,620 | INFO | Target folder: \\AdiNAS\docker\Projects\fitness-health-analytics\raw
+2026-01-06 12:29:08,936 | INFO | Kaggle dataset downloaded successfully
+2026-01-06 12:29:08,936 | INFO | ETL pipeline finished successfully
+2026-01-06 12:47:00,152 | INFO | ETL pipeline started
+2026-01-06 12:47:00,153 | INFO | Environment: local
+2026-01-06 12:47:00,158 | INFO | Downloading Kaggle dataset: siddheshtoraskar/comprehensive-fitness-and-health-tracking-dataset
+2026-01-06 12:47:00,158 | INFO | Target folder: /mnt/nas/Projects/fitness-health-analytics/raw
+2026-01-06 12:47:02,303 | INFO | Kaggle dataset downloaded successfully
+2026-01-06 12:47:02,303 | INFO | ETL pipeline finished successfully
+2026-01-06 12:47:36,297 | INFO | ETL pipeline started
+2026-01-06 12:47:36,298 | INFO | Environment: local
+2026-01-06 12:47:36,302 | INFO | Downloading Kaggle dataset: siddheshtoraskar/comprehensive-fitness-and-health-tracking-dataset
+2026-01-06 12:47:36,302 | INFO | Target folder: /mnt/nas/Projects/fitness-health-analytics/data/raw
+2026-01-06 12:47:38,229 | INFO | Kaggle dataset downloaded successfully
+2026-01-06 12:47:38,229 | INFO | ETL pipeline finished successfully

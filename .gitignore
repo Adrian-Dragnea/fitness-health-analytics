@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+# Logs
+logs/
+logs/pipeline.log
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data outputs
+data/01-raw/*
+data/05-exports/*
+
+# OS
+.DS_Store
+Thumbs.db
+# Local config
+config/local.yaml
+config/local.secrets.yaml
+config/tailscale.yaml
+config/local.nas.yaml
